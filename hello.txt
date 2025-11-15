@@ -1,4 +1,4 @@
-hello world
+hello world　コンフリクトテスト（main側で修正）
 こんにちわ　世界
 こちら側でも修正　main1115
 2025/11/15 12:12 ブランチ feature/1115-1
