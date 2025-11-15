@@ -2,3 +2,4 @@ hello world　コンフリクトテスト（main側で修正）（feature/1115-1
 こんにちわ　世界
 こちら側でも修正　main1115
 2025/11/15 12:12 ブランチ feature/1115-1
+2025/11/15 13:11 ブランチ feature/1115-2 Pull Request
